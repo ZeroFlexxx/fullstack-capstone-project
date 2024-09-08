@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-**As a** [role]
-**I need** [function]
-**So that** [benefit]
+### Use Case
+**As a** Full-Stack JavaScript Developer
+**I need** 
+**So that** 
 ### Details and Assumptions
-    * [document what you know]
+    * 
 ### Acceptance Criteria
-    gherkin
-    Given [some context]
-    When [certain action is taken]
-    Then [the outcome of action is observed]
+    Given [Criteria to meet]
+    By [Date]
+    Then the next Story can start
