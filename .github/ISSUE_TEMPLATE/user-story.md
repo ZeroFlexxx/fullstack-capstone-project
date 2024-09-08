@@ -14,6 +14,6 @@ assignees: ''
 ### Details and Assumptions
     * 
 ### Acceptance Criteria
-    Given [Criteria to meet]
+    Given all Details and Assumptions are correct and implemented
     By [Date]
     Then the next Story can start
